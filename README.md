@@ -99,3 +99,7 @@ fasttext = gensim.models.FastText(
 )
 ```
 나머지는 Word2Vec의 파라미터와 같다.
+-----------------------------------
+## 25.08.17
+
+ML/DL 모델 활용 NLP 실습: 데이터셋(IMDB)
